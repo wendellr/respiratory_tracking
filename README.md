@@ -29,19 +29,19 @@ Because of that, this technique can be implemented on constrained hardware like 
 
 The user selects the region of interest (ROI) to focus on the abdominal movement:
 
-![ROI Selection](.images/anon_face.jpeg)
+![ROI Selection](./images/anon_face.png)
 
 ### Tracking in Action
 
 Tracked points are monitored across frames using the Lucas-Kanade optical flow algorithm:
 
-![Tracking](./images/anon_face_2.jpeg)
+![Tracking](./images/anon_face_2.png)
 
 ## 📊 Results
 
 The vertical displacement of the abdominal region across 300 frames (recorded at 30 FPS = 10 seconds) is shown below:
 
-![Respiration Graph](.images/Figure_13.png)
+![Respiration Graph](./images/Figure_13.png)
 
 **Observation**: 5 clear peaks can be identified, corresponding to 5 breathing cycles in 10 seconds → **30 breaths per minute**.  
 This value is within the upper range for healthy adults at rest.
