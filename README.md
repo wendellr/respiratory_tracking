@@ -4,7 +4,7 @@ This repository contains a simple proof-of-concept to detect respiratory movemen
 
 ## 📸 Experiment Overview
 
-The experiment was inspired by the work of Prof. Pedro Pedrosa, Prof. Mauro Oliveira, and the Salvus team. Their dedication to health monitoring using technology motivated me to test how classical methods could be applied to monitor breathing—one of the vital signs—in a lightweight and accessible way.
+The experiment was inspired by the work of Prof. Auzuir, Prof. Pedro Pedrosa, Prof. Mauro Oliveira, and the Salvus team. Their dedication to health monitoring using technology motivated me to test how classical methods could be applied to monitor breathing—one of the vital signs—in a lightweight and accessible way.
 
 For us researchers, it's rewarding to see that our work can help improve people’s quality of life.
 
